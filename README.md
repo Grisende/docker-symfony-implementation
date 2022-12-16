@@ -1,4 +1,4 @@
-# Datum Test
+# Docker Implementation
 #### Esse projeto serve para criar um hash, de certo formato, para uma certa string fornecida como input.
 
 ### Instrução de rotas para execução
